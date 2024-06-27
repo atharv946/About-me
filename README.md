@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tacobin3
+- 👋 Hi, I’m Atharv
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java,C++
 - 💞️ I’m looking to collaborate on a Science fair Project
